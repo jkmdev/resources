@@ -6,6 +6,10 @@ A collection of links and resources I personally find useful for web development
 
 Websites that make planning the design of a site or element easier, if the situation calls for it.
 
+### Design Tips
+
+7 practical tips for cheating at design - https://medium.com/refactoring-ui/7-practical-tips-for-cheating-at-design-40c736799886
+
 ### Image Assets
 
 Loading Spinners - https://loading.io/spinner/camera/-camera-aperture-ajax-spinner
@@ -71,3 +75,5 @@ Self-taught CS - https://github.com/ossu/computer-science
 Weird challeneg thing - https://www.scotthyoung.com/blog/myprojects/mit-challenge-2/
 
 Design for developers - https://www.youtube.com/playlist?list=PLmZLFWEwl1DQBMjKSI5sqFuGCxZSJC3f4
+
+CS 61B Data Structures - https://sp18.datastructur.es/
